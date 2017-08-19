@@ -16,7 +16,6 @@
 
 PRODUCT_PACKAGES += \
     TimeService \
-    Turbo \
     QPerformance
 
 PRODUCT_PACKAGES += \
